@@ -1,0 +1,5 @@
+{"question":"What are the four typical stages of a RAG pipeline?","expected_source":"rag_basics.md","expected_terms":["ingestion","indexing","retrieval","generation"]}
+{"question":"Why is text split into chunks?","expected_source":"rag_basics.md","expected_terms":["chunks"]}
+{"question":"How can RAG reduce hallucinations?","expected_source":"rag_basics.md","expected_terms":["grounding"]}
+{"question":"Name two useful retrieval or answer evaluation metrics.","expected_source":"rag_basics.md","expected_terms":["Recall@k"]}
+{"question":"What is one limitation of RAG?","expected_source":"rag_basics.md","expected_terms":["retrieval"]}
